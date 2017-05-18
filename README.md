@@ -38,7 +38,7 @@ These are some of the most common repos:
 
 - [examples](https://github.com/gost/examples) - examples how to use GOST
 
-- [docs](https://github.com/gost/docs) - GOST documents
+- [docs](https://github.com/gost/docs) - GOST documents like installation, configuration, security aspects
 
 - [workshops](https://github.com/gost/workshops) - GOST workshops
 
