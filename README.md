@@ -32,6 +32,8 @@ These are some of the most common repos:
 
 - [sensorthings-cli](https://github.com/gost/sensorthings-cli) - Command Line Interface (CLI) for SensorThings API
 
+- [predict](https://github.com/gost/gost-predict) - Service for predicting observations
+
 ### GOST documentation, tutorials, examples, workshops
 
 - [examples](https://github.com/gost/examples) - examples how to use GOST
