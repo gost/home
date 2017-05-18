@@ -9,11 +9,11 @@ those contributing to GOST or using bleeding edge nightly builds
 
 These are some of the most common repos:
 
-- [GOST server](https://github.com/geodan/gost) - server code for GOST
+- [server](https://github.com/geodan/gost) - server code for GOST
 
-- [GOST dashboard](https://github.com/gost/dashboard) - client side dashboard code for GOST
+- [dashboard](https://github.com/gost/dashboard) - client side dashboard code for GOST
 
-- [GOST database](https://github.com/gost/gost-db) - GOST database (Postgresql + PostGIS)
+- [database](https://github.com/gost/gost-db) - GOST database (Postgresql + PostGIS)
 
 - [docker-compose](https://github.com/gost/docker-compose) - docker-compose files for GOST
 
