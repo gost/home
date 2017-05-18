@@ -31,6 +31,8 @@ These are some of the most common repos:
 
 - [sensorthings-net-sdk](https://github.com/gost/sensorthings-net-sdk) - Client side .NET SDK for SensorThings API
 
+- [sensorthings-cli](https://github.com/gost/sensorthings-cli) - Command Line Interface (CLI) for SensorThings API
+
 
 
 
