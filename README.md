@@ -13,8 +13,6 @@ These are some of the most common repos:
 
 - [server](https://github.com/geodan/gost) - server code for GOST
 
-- [dashboard](https://github.com/gost/dashboard) - client side dashboard code for GOST
-
 - [database](https://github.com/gost/gost-db) - GOST database (Postgresql + PostGIS)
 
 - [docker-compose](https://github.com/gost/docker-compose) - docker-compose files for GOST
@@ -23,6 +21,8 @@ These are some of the most common repos:
 
 
 ### GOST client-side tools
+
+- [dashboard](https://github.com/gost/dashboard) - client side dashboard code for GOST
 
 - [postman](https://github.com/gost/postman) - GOST postman file
 
