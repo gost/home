@@ -34,9 +34,9 @@ These are some of the most common repos:
 
 - [predict](https://github.com/gost/gost-predict) - Service for predicting observations
 
-### GOST documentation, tutorials, examples, workshops
-
 - [examples](https://github.com/gost/examples) - examples how to use GOST
+
+### GOST documentation, tutorials, workshops
 
 - [docs](https://github.com/gost/docs) - GOST documents like installation, configuration, security aspects
 
