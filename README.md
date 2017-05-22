@@ -24,7 +24,7 @@ These are some of the most common repos:
 
 - [dashboard](https://github.com/gost/dashboard) - client side dashboard code for GOST
 
-- [https://github.com/gost/dashboard-components](https://github.com/gost/dashboard-components) - Webcomponents for GOST services
+- [dashboard-components](https://github.com/gost/dashboard-components) - Webcomponents for GOST services
 
 - [postman](https://github.com/gost/postman) - GOST postman file
 
