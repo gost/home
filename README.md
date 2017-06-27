@@ -9,7 +9,7 @@ those contributing to GOST or using bleeding edge nightly builds
 
 These are some of the most common repos:
 
-### GOST software
+### GOST server-side software
 
 - [server](https://github.com/geodan/gost) - server code for GOST
 
