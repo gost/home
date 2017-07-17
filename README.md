@@ -5,13 +5,15 @@ those contributing to GOST or using bleeding edge nightly builds
 
 ## Getting started
 
+- [workshop](https://github.com/gost/workshops/blob/master/2017_foss4g_boston/1_introduction.md) - 2017 FOSS4G Boston Workshop 
+
 ## Repos and projects
 
 These are some of the most common repos:
 
 ### GOST server-side software
 
-- [server](https://github.com/geodan/gost) - server code for GOST
+- [server](https://github.com/gost/server) - server code for GOST
 
 - [database](https://github.com/gost/gost-db) - GOST database (Postgresql + PostGIS)
 
@@ -41,8 +43,6 @@ These are some of the most common repos:
 ### GOST documentation, tutorials, workshops
 
 - [docs](https://github.com/gost/docs) - GOST documents like installation, configuration, security aspects
-
-- [workshops](https://github.com/gost/workshops) - GOST workshops
 
 
 
