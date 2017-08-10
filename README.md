@@ -42,7 +42,9 @@ These are some of the most common repos:
 
 ### GOST documentation, tutorials, workshops
 
-- [docs](https://github.com/gost/docs) - GOST documents like installation, configuration, security aspects
+- [docs](https://github.com/gost/docs) - GOST documents like installation, FAQ, configuration, security aspects
+
+- [workshops](https://github.com/gost/workshops) - GOST workshops
 
 
 
