@@ -1,4 +1,4 @@
-# home
+ home
 
 This is the home page of the GOST source code repositories and is intended for 
 those contributing to GOST or using bleeding edge nightly builds
@@ -15,7 +15,7 @@ These are some of the most common repos:
 
 - [server](https://github.com/gost/server) - server code for GOST
 
-- [database](https://github.com/gost/gost-db) - GOST database (Postgresql + PostGIS)
+- [database](https://github.com/gost/gost-db) - GOST database (PostgreSQL + PostGIS)
 
 - [docker-compose](https://github.com/gost/docker-compose) - docker-compose files for GOST
 
