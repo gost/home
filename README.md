@@ -21,6 +21,8 @@ These are some of the most common repos:
 
 - [scripts](https://github.com/gost/scripts) - GOST scripts
 
+- [benchmarks](https://github.com/gost/benchmarks) - benchmarks
+
 
 ### GOST client-side tools
 
