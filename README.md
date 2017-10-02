@@ -7,6 +7,12 @@ those contributing to GOST or using bleeding edge nightly builds
 
 - [workshop](https://github.com/gost/workshops/blob/master/2017_foss4g_boston/1_introduction.md) - 2017 FOSS4G Boston Workshop 
 
+## Website and blog
+
+- [https://www.gostserver.xyz](https://www.gostserver.xyz/) - GOST website
+
+- [https://www.gostserver.xyz/blog](https://www.gostserver.xyz/blog) - GOST blog
+
 ## Repos and projects
 
 These are some of the most common repos:
